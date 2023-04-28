@@ -3916,11 +3916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Asp.Net Core X Angular\\Cards\\API\\Cards\\Cards.API\\Cards.API.csproj",
+      "projectUniqueName": "D:\\Projects\\Asp.Net Core X Angular\\Cards\\API\\bank-card-api\\Cards\\Cards.API\\Cards.API.csproj",
       "projectName": "Cards.API",
-      "projectPath": "D:\\Projects\\Asp.Net Core X Angular\\Cards\\API\\Cards\\Cards.API\\Cards.API.csproj",
+      "projectPath": "D:\\Projects\\Asp.Net Core X Angular\\Cards\\API\\bank-card-api\\Cards\\Cards.API\\Cards.API.csproj",
       "packagesPath": "C:\\Users\\Luthando\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Asp.Net Core X Angular\\Cards\\API\\Cards\\Cards.API\\obj\\",
+      "outputPath": "D:\\Projects\\Asp.Net Core X Angular\\Cards\\API\\bank-card-api\\Cards\\Cards.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Luthando\\AppData\\Roaming\\NuGet\\NuGet.Config",

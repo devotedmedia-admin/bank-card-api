@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yvCoudHeKwA8mSHH01jKei/7qdcxbH+ba9cHGifoqVdU5u4s92J8YYkIQhP8hu16j36eDGnayxCRXIw4JXgZew==",
+  "dgSpecHash": "8aDHODwNrw8IJCtM5Sp6CQzGhZtvg5zoFFNCAaStSiob1kDdWoVAnFgEOiJjW3KZIcff4vrhSIwobMvuUUM7+Q==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Asp.Net Core X Angular\\Cards\\API\\Cards\\Cards.API\\Cards.API.csproj",
+  "projectFilePath": "D:\\Projects\\Asp.Net Core X Angular\\Cards\\API\\bank-card-api\\Cards\\Cards.API\\Cards.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luthando\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Luthando\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
